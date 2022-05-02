@@ -2,6 +2,8 @@
 
 > BTD stands for Battle to Death
 
+![A few cool looking dinosaus and two are pterosaurs. I think they're very good for Battle to Death.](images/hero.jpg)
+
 BTD is about dinosaurs and it's kind of like Jurassic Park.
 
 ## Some behind the scenes on BTD
@@ -22,6 +24,9 @@ Now you know some things about behind-the-scenes Battle to Death! I think it's g
 * Black Stripe. It is a velociraptor trained just like Blue. But it looks very different from Blue. And there's one scene that everyone will know around the world, I think, when Black Stripe and the Attack Pack (which is the pack that Black Stripe's in) attack the monstorous raptor, which is a hybrid.
 * Da, da, daaaa... THE GIGONOTOSAURUS! It is gonna be one of the coolest dinosaurs in the movie. It's very colorful. It is one of the biggest dinosaurs in the movie, but not _the_ biggest. Another really cool scene is where the gigonotosaurs fights the t. rex.
 * Daa, daa, DAAAAAA! THE MONSTOROUS RAPTOR!! It's made of scorpious rex from Camp Cretaceous, and indominous rex _and_ indoraptor! Oh no! And a t. rex and velociraptor. That's scary!
+
+![Mosasaurus](images/mosasaurus.jpg)
+
 * Mosasaurus. It is an ocean reptile that in one scene jumps up and tries to bite Black Stripe! But Black Stripe dodges the bite and runs away with the Attack Pack.
 * Oh my gosh I can't believe it. Da, da, daa... THE TYRANOSAURUS REX! In the movie it is feathered. It battles with the gigonotosaurs like I said in the gigonotosaurus one. In the movie it tries to eat John. And now onto a new dinosaur.
 * Oh my, I can't believe we haven't done this yet. GASTONIA! When it swings its tail its spike cross in the movie which is true. It is about the size of a human.
@@ -59,6 +64,8 @@ This is the theme song. I wrote it on the piano and I changed it up like ten or 
 
 > <video controls width="100%" height="60px" src="https://github.com/nikhiltri/btd-dot-com/blob/main/audio/audio_BTD%E2%80%A6theme.webm?raw=true"></video>
 
+![Parasaurolophus](images/parasaurolophus.jpg)
+
 This is the song when the parasaurolophus warns the heard that a majengosaurus is near.
 
 > <video controls width="100%" height="60px" src="https://github.com/nikhiltri/btd-dot-com/blob/main/audio/parasauralophus.webm?raw=true"></video>
@@ -77,7 +84,13 @@ For the one where the mosaurus is chasing the plesiosaurus and the elsamosaurus 
 
 ## The sssstooooooryyyy
 
-It starts off with some people arriving at the island, including John. They have a mission to help the people manage the island. When they get there gallimimus are everywhere. They are very surprised to see all of it. It's not normal to see all these dinosaurs and pterosaurs. A stegosaurus is wathcing and grazing nearby. They see two tricerotops horn-battling each other. They see an ankylosaurus fighting a t. rex.
+It starts off with some people arriving at the island, including John. They have a mission to help the people manage the island. When they get there gallimimus are everywhere. They are very surprised to see all of it. It's not normal to see all these dinosaurs and pterosaurs.
+
+![Tricerotops](images/tricerotops.jpg)
+
+A stegosaurus is wathcing and grazing nearby. They see two tricerotops horn-battling each other. They see an ankylosaurus fighting a t. rex.
+
+![Velocipraptor](images/velociraptor.jpg)
 
 Later on, the people give one person one egg and the other person five eggs. They think they should have dinosaurs that will help them. One hatches and that one is a carnotaurus, so that one egg is a carnotaurus egg. Then next five eggs start hatching and when John sees the velocipraptors inside he immediately has names for all of them. The one in the front is Black Stripe because he is all red on his back with black stripes. The one and the end is Blue Water, the all red one is Red Dasher, and the green and white one is Green Grass. Then the next one hatched and it was hard giving it a name. But they named it White Snow.
 
