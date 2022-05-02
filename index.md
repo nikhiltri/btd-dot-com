@@ -49,11 +49,21 @@ And now for a new category!
 
 This song is when Black Stripe first hatches.
 
+> <video controls width="100%" height="60px" src="https://github.com/nikhiltri/btd-dot-com/blob/main/audio/black-stripe-hatches.webm?raw=true"></video>
+
 This is when the t. rex and gigonotosaur fight!
 
-This is the theme song. I wrote it on the piano and I changed it up like ten or eleven times.
+> <video controls width="100%" height="60px" src="https://github.com/nikhiltri/btd-dot-com/blob/main/audio/t-rex-and-gigonotosaurus-fight.webm?raw=true"></video>
 
-This is the song when the parasaurolphus warns the heard that a majengosaurus is near.
+This is the theme song. I wrote it on the piano and I changed it up like ten or eleven times:
+
+> <video controls width="100%" height="60px" src="https://github.com/nikhiltri/btd-dot-com/blob/main/audio/audio_BTD%E2%80%A6theme.webm?raw=true"></video>
+
+This is the song when the parasaurolophus warns the heard that a majengosaurus is near.
+
+> <video controls width="100%" height="60px" src="https://github.com/nikhiltri/btd-dot-com/blob/main/audio/parasauralophus.webm?raw=true"></video>
+
+
 
 ## Visual effects
 
